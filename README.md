@@ -5,8 +5,8 @@ Plataforma web interactiva para fortalecer la gobernanza institucional frente al
 ## Inicio Rápido
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 El proyecto se ejecutará en: `http://localhost:5173`
