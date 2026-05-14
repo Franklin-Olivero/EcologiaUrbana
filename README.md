@@ -11,7 +11,7 @@ npm run dev
 
 El proyecto se ejecutará en: `http://localhost:5173`
 
-## 📦 Stack Tecnológico
+## Stack Tecnológico
 
 - **React** + **Vite**
 - **CSS Puro** (Vanilla CSS) — Sin Tailwind
@@ -39,7 +39,7 @@ src/
  └── main.jsx
 ```
 
-## 📚 Conceptos Teóricos Integrados
+## Conceptos Teóricos Integrados
 
 1. **Antropoceno** — Era actual donde la actividad humana es la fuerza dominante del planeta
 2. **Cambio Global** — Alteraciones ambientales por actividades humanas
@@ -47,7 +47,7 @@ src/
 4. **Servicios Ecosistémicos** — Beneficios que los ecosistemas brindan
 5. **Ciencia Ciudadana** — Participación de todos en la generación de datos ambientales
 
-## 🎮 Funcionalidades
+## Funcionalidades
 
 - Landing page con estadísticas y animaciones
 - Explicación del problema central del campus
