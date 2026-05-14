@@ -2,7 +2,7 @@
 
 Plataforma web interactiva para fortalecer la gobernanza institucional frente al manejo de residuos en la **Universidad del Norte**, Barranquilla, Colombia.
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ```bash
 npm install
@@ -63,3 +63,8 @@ src/
 ## 👥 Créditos
 
 Proyecto académico de Ecología Urbana — Universidad del Norte, Barranquilla.
+Franklin Olivero
+Maikel Ortiz
+Samuel Sarmiento
+Cristian Fuentes
+Francisco
